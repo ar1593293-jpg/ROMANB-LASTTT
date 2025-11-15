@@ -13,5 +13,7 @@ int main()
     printf("Grade:%f\n", Grade);
     printf("Section:%c\n", Section);
 
+    printf("lagay dito hihihi");
+
     return 0;
 }
